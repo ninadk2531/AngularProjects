@@ -1,2 +1,2 @@
 # AngularProjects
-vThis repository contains varies angular projects 
+This repository contains varies angular projects 
